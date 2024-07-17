@@ -1,0 +1,4 @@
+# If you find any security issues on this site, please contact me!
+Contact: https://github.com/owasp-noir/noir/security
+Preferred-Languages: en, ko
+Canonical: https://owasp-noir.github.io/.well-known/security.txt
